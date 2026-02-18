@@ -40,10 +40,10 @@ except ImportError:
 
 # ── [WAJIB] API Key Molty Royale ───────────────────────────────
 # Dapatkan di: https://www.moltyroyale.com
-MOLTY_API_KEY = "mr_live_MASUKKAN_API_KEY_DISINI"
+MOLTY_API_KEY = "mr_live_u3ZfNmr9iPGjeM1YxKavg3am7Q6tw-4b"
 
 # ── [WAJIB] Nama agent kamu di dalam game ──────────────────────
-AGENT_NAME = "ShadowHunter"
+AGENT_NAME = "ArangDul"
 
 # ── [OPSIONAL] Jika agent sudah terdaftar sebelumnya ───────────
 # Isi agentId jika bot pernah dijalankan di game yang sama
@@ -63,7 +63,7 @@ AGENT_ID = ""
 CLAUDE_API_KEY = ""
 
 # OPSI 2: Gemini AI → https://aistudio.google.com/app/apikey
-GEMINI_API_KEY = ""
+GEMINI_API_KEY = "AIzaSyBVBc6cAnGtCVbmRPr74kT4w5ZFnnKgr0E"
 
 # ── Model yang digunakan ───────────────────────────────────────
 CLAUDE_MODEL = "claude-haiku-4-5-20251001"   # hemat & cepat
