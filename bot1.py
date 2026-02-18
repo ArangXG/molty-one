@@ -40,10 +40,10 @@ except ImportError:
 
 # ── [WAJIB] API Key Molty Royale ───────────────────────────────
 # Dapatkan di: https://www.moltyroyale.com
-MOLTY_API_KEY = "mr_live_MASUKKAN_API_KEY_DISINI"
+MOLTY_API_KEY = "mr_live_u3ZfNmr9iPGjeM1YxKavg3am7Q6tw-4b"
 
 # ── [WAJIB] Nama agent kamu di dalam game ──────────────────────
-AGENT_NAME = "ShadowHunter"
+AGENT_NAME = "ArangDul"
 
 # ── [OPSIONAL] Jika agent sudah terdaftar sebelumnya ───────────
 # Isi agentId jika bot pernah dijalankan di game yang sama
